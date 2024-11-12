@@ -1,0 +1,2 @@
+var foo = (v) => 10 + v
+console.log("Here is the result: ", v)
